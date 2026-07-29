@@ -18,7 +18,7 @@ Customer Success teams juggle dozens of accounts across multiple health signals 
 - **Account Management** — Sortable, filterable account list (All / At Risk / Enterprise / Healthy) with ARR, industry, and last-activity tracking
 - **Recent Activity Feed** — Real-time timeline of touchpoints across the portfolio (QBRs, product demos, support resolutions, expansion planning)
 - **Command Menu (⌘K)** — Fast keyboard-driven search and navigation across accounts and views
-- Dashboard / Accounts / Analytics / Settings— Full multi-view app structure for day-to-day CSM workflows
+- **Dashboard / Accounts / Analytics / Settings** — Full multi-view app structure for day-to-day CSM workflows
 
 ## 🛠️ Tech Stack
 
