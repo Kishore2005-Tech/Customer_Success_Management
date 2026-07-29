@@ -1,4 +1,4 @@
-# Customer Success Command Center
+# **ORBIT** - Customer Success Command Center
 
 ORBIT is a modern, internal dashboard built for Customer Success Managers (CSMs) to track accounts, monitor customer health scores, and predict churn — all from a single command center.
 
