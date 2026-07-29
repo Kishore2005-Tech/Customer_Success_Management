@@ -2,7 +2,7 @@
 
 ORBIT is a modern, internal dashboard built for Customer Success Managers (CSMs) to track accounts, monitor customer health scores, and predict churn — all from a single command center.
 
-🔗 **Live Demo:** [kishorep-customer-success-management-dashboard.vercel.app](https://kishorep-customer-success-management-dashboard.vercel.app/)
+🔗 [kishorep-customer-success-management-dashboard.vercel.app](https://kishorep-customer-success-management-dashboard.vercel.app/)
 
 ---
 
