@@ -13,7 +13,7 @@ Customer Success teams juggle dozens of accounts across multiple health signals 
 ## 🚀 Features
 
 - **Portfolio Pulse** — Executive-level overview showing Total Book of Business, Net Retention Rate, Average Health Score, and Active Accounts at a glance
-- Churn Prediction Radar — 12-month forecast vs. actual churn trend visualization
+- **Churn Prediction Radar** — 12-month forecast vs. actual churn trend visualization
 - **Accounts at Risk** — Auto-surfaced list of accounts needing immediate attention, ranked by health score
 - **Account Management** — Sortable, filterable account list (All / At Risk / Enterprise / Healthy) with ARR, industry, and last-activity tracking
 - **Recent Activity Feed** — Real-time timeline of touchpoints across the portfolio (QBRs, product demos, support resolutions, expansion planning)
